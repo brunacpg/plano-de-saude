@@ -1,8 +1,7 @@
 # Projeto de Previsão de Despesas com Planos de Saúde 
 
 <p align="center">
-  <img src="https://github.com/brunacpg/plano-de-saude/assets/103262900/615eca02-f1f7-4c10-8ba4-3aa6833b3cdf
-" alt="Descrição da Imagem">
+  <img src="https://github.com/brunacpg/plano-de-saude/assets/103262900/615eca02-f1f7-4c10-8ba4-3aa6833b3cdf" alt="Descrição da Imagem">
 </p>
 
 Este é um projeto de Ciência de Dados e Aprendizado de Máquina (Machine Learning) voltado para a previsão das despesas anuais com planos de saúde. O principal objetivo é desenvolver um modelo de regressão capaz de antecipar as despesas com planos de saúde com base em diversas características dos pacientes.
