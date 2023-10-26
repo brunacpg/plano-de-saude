@@ -1,7 +1,7 @@
 # Projeto de Previsão de Despesas com Planos de Saúde 
 
 <p align="center">
-  <img src="![image](https://github.com/brunacpg/plano-de-saude/assets/103262900/615eca02-f1f7-4c10-8ba4-3aa6833b3cdf)
+  <img src="https://github.com/brunacpg/plano-de-saude/assets/103262900/615eca02-f1f7-4c10-8ba4-3aa6833b3cdf
 " alt="Descrição da Imagem">
 </p>
 
